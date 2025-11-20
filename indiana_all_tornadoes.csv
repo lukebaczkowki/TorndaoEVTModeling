@@ -1,0 +1,12 @@
+Date,Wind_mph,Source Page,0,1,2,3,4
+,,https://www.weather.gov/ind/tornadostats,Bartholomew,Boone,Brown,Carroll,Clay
+,,https://www.weather.gov/ind/tornadostats,Clinton,Daviess,Decatur,Delaware,Fountain
+,,https://www.weather.gov/ind/tornadostats,Greene,Hamilton,Hancock,Hendricks,Henry
+,,https://www.weather.gov/ind/tornadostats,Howard,Jackson,Jennings,Johnson,Knox
+,,https://www.weather.gov/ind/tornadostats,Lawrence,Madison,Marion,Martin,Monroe
+,,https://www.weather.gov/ind/tornadostats,Montgomery,Morgan,Owen,Parke,Putnam
+,,https://www.weather.gov/ind/tornadostats,Randolph,Rush,Shelby,Sullivan,Tippecanoe
+,,https://www.weather.gov/ind/tornadostats,Tipton,Vermillion,Vigo,Warren,
+1925-01-01,,https://www.weather.gov/pah/1925Tornado,"Surface map at 7 AM CST on March 18, 1925 (Maddox et al, 2013)","Surface map at 12 PM CST on March 18, 1925 (Maddox et al, 2013)",,,
+1925-01-01,,https://www.weather.gov/pah/1925Tornado,"Surface map at 2 PM CST on March 18, 1925 (Maddox et al, 2013)","Surface map at 4 PM CST on March 18, 1925 (Maddox et al, 2013)","Surface map at 7 PM CST on March 18, 1925 (Maddox et al, 2013)",,
+1925-01-01,,https://www.weather.gov/pah/1925Tornado,"Reanalysis of 500mb pattern at 12 PM CST on March 18, 1925 (Maddox et al, 2013)","Surface frontal positions from 7 AM to 7 PM CST on March 18, 1925 (Maddox et al, 2013)",,,
